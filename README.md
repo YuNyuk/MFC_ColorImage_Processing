@@ -9,8 +9,8 @@ C++와 Visual Studio 2022 MFC를 활용하여 <br>
 GUI가 포함된 여러 영상처리 알고리즘을 구현 <br> <br>
 
 # 개발 환경
-OS : Windows 11
-Tool : Visual Studio 2022 MFC
+OS : Windows 11 <br>
+Tool : Visual Studio 2022 MFC <br>
 Language : C++
 <br><br>
 
